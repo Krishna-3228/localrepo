@@ -37,3 +37,4 @@ emp1.welcome()              # Welcome
 
 # this is modification
 print("Hello git. Git is useful")
+print("Hello git. Git is Easy")
