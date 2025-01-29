@@ -36,4 +36,4 @@ Employee.greet(emp1)        # Good Morning
 emp1.welcome()              # Welcome
 
 # this is modification
-print("Hello git")
+print("Hello git. Git is useful")
